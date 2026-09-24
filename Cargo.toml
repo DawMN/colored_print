@@ -1,0 +1,13 @@
+[package]
+name = "colored_print"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "colored_print"
+path = "src/lib.rs"
+
+[features]
+default = []
